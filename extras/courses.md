@@ -99,4 +99,4 @@ Courses | Duration | Effort
 Courses | Duration | Effort
 :-- | :--: | :--:
 [Learning How to Learn](https://www.coursera.org/learn/learning-how-to-learn) | 4 weeks | 2 hours/week
-[Mindshift](https://www.coursera.org/learn/mindshift) | 4 weeks | 2 hours/week
+[Mindshift](https://www.coursera.org/learn/mindshift) ✅ 04/01/25 | 4 weeks | 2 hours/week
